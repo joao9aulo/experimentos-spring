@@ -11,6 +11,6 @@ public class SampleService {
 	}
 	
 	public void teste() {
-		System.out.println("M�todo teste do service");
+		System.out.println("Método teste do service");
 	}
 }
