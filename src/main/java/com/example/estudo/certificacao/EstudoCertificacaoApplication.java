@@ -31,7 +31,11 @@ public class EstudoCertificacaoApplication {
 //		
 //		proxySampleService.teste();
 		
+		//Testando transactional
 		
+//		ServiceTransacional serviceTransactional = (ServiceTransacional)ctx.getBean("serviceTransacional");
+//		
+//		serviceTransactional.metodoTransactional();
 	}
 
 }
